@@ -1,0 +1,3 @@
+<a href="https://github.com/NenadBdust/vezba2" target="_blank">Go to github</a>
+
+Kreirana "Vezba2" je u stvari Vezba 1, ali sam kreirao novi repository i odradio sve iznova iz razloga jer je prvi pod nazivom Vezba1 zabagovao.
